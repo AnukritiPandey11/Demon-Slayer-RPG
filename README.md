@@ -51,7 +51,7 @@ Higher health and an aggressive fighting style with double attacks.
 
 ### Character Selection
 
-![Character Selection](Screenshots/01-Character-Selection.png)
+![Character Selection](https://raw.githubusercontent.com/AnukritiPandey11/Demon-Slayer-RPG/main/Screenshots/01-Character-Selection.png)
 
 ### Combat System
 
