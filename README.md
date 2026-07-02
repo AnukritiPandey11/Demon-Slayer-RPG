@@ -18,7 +18,7 @@ Players can choose between **Tanjiro**, **Zenitsu**, and **Inosuke**, each with 
 - Wisteria potions for healing
 - Critical hits and dodge mechanics
 - Multiple demon encounters and boss fights
-- Different endings based on player performance and score
+- Multiple endings based on player performance and final score
 
 ---
 
