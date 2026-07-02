@@ -49,25 +49,7 @@ Higher health and an aggressive fighting style with double attacks.
 
 ## Screenshots
 
-### Character Selection
-
-![Character Selection](https://raw.githubusercontent.com/AnukritiPandey11/Demon-Slayer-RPG/main/Screenshots/01-Character-Selection.png)
-
-### Combat System
-
-![Combat System](Screenshots/02-Combat-System.png)
-
-### Supply Shop
-
-![Supply Shop](Screenshots/03-Supply-Shop.png)
-
-### Final Boss Battle
-
-![Final Boss Battle](Screenshots/04-Final-Boss-Muzan.png)
-
-### Ending Screen
-
-![Ending Screen](Screenshots/05-Ending-Screen.png)
+Screenshots of gameplay can be found in the `Screenshots` folder included in this repository.
 
 ---------
 
