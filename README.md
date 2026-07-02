@@ -50,21 +50,26 @@ Higher health and an aggressive fighting style with double attacks.
 ## Screenshots
 
 ### Character Selection
+
 ![Character Selection](Screenshots/01-Character-Selection.png)
 
 ### Combat System
-![Combat](Screenshots/02-Combat-System.png)
+
+![Combat System](Screenshots/02-Combat-System.png)
 
 ### Supply Shop
-![Shop](Screenshots/03-Supply-Shop.png)
+
+![Supply Shop](Screenshots/03-Supply-Shop.png)
 
 ### Final Boss Battle
-![Muzan](Screenshots/04-Final-Boss-Muzan.png)
+
+![Final Boss Battle](Screenshots/04-Final-Boss-Muzan.png)
 
 ### Ending Screen
-![Ending](Screenshots/05-Ending-Screen.png)
 
----
+![Ending Screen](Screenshots/05-Ending-Screen.png)
+
+---------
 
 ## Future Improvements
 
